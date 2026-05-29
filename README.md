@@ -1,6 +1,11 @@
 # Vietnamese Dishes Recognition AI
 
-Du an nay dung mo hinh CNN bang TensorFlow/Keras de nhan dien mon an Viet Nam tu webcam hoac anh import. Ung dung chinh nam trong `gui.py` va model da train duoc luu o `model.keras`.
+Du an nay dung mo hinh CNN bang TensorFlow/Keras de nhan dien mon an Viet Nam tu webcam hoac anh import. Ung dung chinh nam trong `gui.py` va model da train duoc luu o `model.keras`. 
+
+Được thực hiện bởi nhóm HKT, gồm các thành viên: 
+1. Nguyễn Bảo Hân - 31251027458 
+2. Trần Thế Đăng Khoa - 31251020280 
+3. Hoàng Bảo Trân - 31251020280
 
 ## Mon an model dang ho tro
 
